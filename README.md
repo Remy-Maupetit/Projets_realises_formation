@@ -2,7 +2,7 @@
 
 Je vous invite à découvrir mon parcours de **Data Analyst**, suivi entre **mars 2025 et avril 2026** sur la plateforme **OpenClassrooms**.
 
-<img width="500" height="100" alt="Artboard 1_0" src="https://github.com/user-attachments/assets/5fe240bd-01ef-44fb-baee-9f516335b6f5" />
+<img width="200" height="100" alt="Artboard 1_0" src="https://github.com/user-attachments/assets/5fe240bd-01ef-44fb-baee-9f516335b6f5" />
 
 
 Durant cette formation, j’ai eu la chance d’être accompagné par un **mentor professionnel**, expert en analyse de données, qui m’a guidé pas à pas dans la réalisation de projets concrets.

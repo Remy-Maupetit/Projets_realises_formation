@@ -1,10 +1,10 @@
 # 🚀 Bienvenue dans mon espace Data Analyst
 
+Je vous invite à découvrir mon parcours de **Data Analyst**, suivi entre **mars 2025 et avril 2026** sur la plateforme **OpenClassrooms**.
+
 <div align="center">
   <img width="200" height="100" alt="Logo OpenClassrooms" src="https://github.com/user-attachments/assets/5fe240bd-01ef-44fb-baee-9f516335b6f5" />
 </div>
-
-Je vous invite à découvrir mon parcours de **Data Analyst**, suivi entre **mars 2025 et avril 2026** sur la plateforme **OpenClassrooms**.
 
 ---
 

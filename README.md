@@ -15,7 +15,7 @@ ESN Data m'a permis de réaliser une dizaine de missions différentes auprès d'
 
 ## 💡 Ce que vous trouverez ici
 
-- **Projets réalisés lors de mes missions** : chaque répertoire contient les livrables réalisés pour mener à bien ses missions.  
+- **Projets réalisés lors des missions** : chaque répertoire contient les livrables réalisés pour mener à bien chaque mission.  
 - **Compétences développées** : analyse exploratoire, visualisation, tableaux de bord interactifs, nettoyage et manipulation de données.  
 - **Méthodologie** : approche rigoureuse, utilisation d’outils modernes (Python, SQL, Excel, Power BI/Tableau) et bonnes pratiques de data storytelling.
 
@@ -35,7 +35,7 @@ Chaque mission reflète ma capacité à résoudre des problématiques concrètes
 
 ---
 
-
+## Listes des missions réalisés
 
 
 

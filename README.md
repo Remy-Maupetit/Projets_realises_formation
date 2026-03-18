@@ -34,6 +34,8 @@ Chaque mission reflète ma capacité à résoudre des problématiques concrètes
 ---
 
 
+
+
 Missions	Entreprises	Secteurs
 Analyse des  ventes e commerce	Le Grand Marché	Commerce
 Faire une étude  de santé publique	FAO	Institutionnel

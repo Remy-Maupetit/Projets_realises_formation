@@ -49,7 +49,16 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 ## 📋 Liste des missions réalisées
 
 👉 Clique ici pour accéder aux projets :  
-🔗 [Voir les missions](./missions)
+Faire une analyse des ventes de e commerce  **Le Grand Marché  Commerce**
+Réaliser un étude de santé publique **FAO Institutionnel**
+Créer et utiliser une base de données  **Laplace Immo  Immobilier**
+Optimiser la gestion d'une boutique **bottleneck  Commerce**
+Création d'un dashboard visualisant l'avancement de projets **Sanitotal Santé**
+Analyse de l'égalité Femmes-Hommes en respect du RGPD **ESN DATA Ressource Humaine**
+Analyse des ventes d'une librairie **Librairie Lapage Commerce**
+Etude sur l'eau potable  **DWFA ONG**
+Etude de Marché **La Poule qui Chante  Agroalimentaire**
+Détection de faux billets  **ONCFM  Institutionnel**
 
 ---
 

@@ -1,53 +1,58 @@
 # 🚀 Bienvenue dans mon espace Data Analyst
 
-Je vous invite à découvrir mon parcours de **Consultant Data Analyst pour ESNDATA**.
+Je vous invite à découvrir mon parcours de Consultant Data Analyst chez **ESNDATA**.
 
 ---
 
 ## 🎯 À propos de mon parcours avec ESNDATA
 
-Depuis que j'ai rejoint ce cabinet spécialisé dans le consulting aux entreprises concernant le domaine des données, j’ai pu mettre à profit l'ensemble des compétences acquises lors de mon cursus de formation en analyse de données.
+Depuis que j’ai rejoint ce cabinet spécialisé dans le conseil en données, j’ai pu mettre en pratique l’ensemble des compétences acquises lors de ma formation en analyse de données.
 
-
-ESN Data m'a permis de réaliser une dizaine de missions différentes auprès d'entreprises sollicitant ses services en matière de données.
+ESNDATA m’a permis de réaliser une dizaine de missions auprès d’entreprises ayant des problématiques data variées.
 
 ---
 
 ## 💡 Ce que vous trouverez ici
 
-- **Projets réalisés lors des missions** : chaque répertoire contient les livrables réalisés pour mener à bien chaque mission.  
-- **Compétences développées** : analyse exploratoire, visualisation, tableaux de bord interactifs, nettoyage et manipulation de données.  
-- **Méthodologie** : approche rigoureuse, utilisation d’outils modernes (Python, SQL, Excel, Power BI/Tableau) et bonnes pratiques de data storytelling.
+### 📁 Projets réalisés
+Chaque répertoire contient les livrables produits pour répondre aux besoins des missions.
+
+### 📈 Compétences développées
+- Analyse exploratoire  
+- Visualisation de données  
+- Création de tableaux de bord interactifs  
+- Nettoyage et manipulation de données  
+
+### 🧠 Méthodologie
+- Approche rigoureuse et orientée métier  
+- Utilisation d’outils modernes  
+- Application des bonnes pratiques de data storytelling  
 
 ---
 
-## 🛠️ Technologies & Outils
+## 🛠️ Technologies et outils
 
 | Catégorie | Outils |
-|-----------|-------|
-| Analyse & Manipulation | Python (pandas, numpy), SQL |
-| Visualisation | Python (matplotlib, seaborn), Power BI, Knime |
+|----------|--------|
+| Analyse & manipulation | Python (pandas, numpy), SQL |
+| Visualisation | matplotlib, seaborn, Power BI, Knime |
 | Autres | Excel, GitHub |
 
 ---
 
-Chaque mission reflète ma capacité à résoudre des problématiques concrètes et à produire des **insights pertinents** pour la prise de décision.  
+## 📊 Impact
+
+Chaque mission reflète ma capacité à analyser des problématiques concrètes et à produire des insights utiles à la prise de décision.
 
 ---
 
-## 📋 Listes des missions réalisés
+## 📋 Liste des missions réalisées
 
-
-
-<img width="916" height="235" alt="image" src="https://github.com/user-attachments/assets/8268a422-0bd7-48f8-86a3-e08b18d4c7f9" />
-
-
-
-
+👉 Clique ici pour accéder aux projets :  
+🔗 [Voir les missions](./missions)
 
 ---
 
+## 🙏 Merci de votre visite !
 
-<div align="center">
-  Merci de votre visite ! 👋
-</div>
+N'hésitez pas à explorer les projets et à me contacter pour échanger 👋

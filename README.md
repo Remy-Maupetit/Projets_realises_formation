@@ -36,17 +36,7 @@ Chaque mission reflète ma capacité à résoudre des problématiques concrètes
 
 
 
-Missions	Entreprises	Secteurs
-Analyse des  ventes e commerce	Le Grand Marché	Commerce
-Faire une étude  de santé publique	FAO	Institutionnel
-Créer et utiliser une base de données immobilière	Laplace Immo	Immobilier
-Optimiser la gestion des données d'une boutique	bottleneck	Commerce
-Création d'un dashboard visualisant l'avancement de projets	Sanitoral	Santé
-Analyse de l'égalité Femmes-Hommes en respect  du RGPD	ESN DATA	Ressource Humaine
-Analyse  des ventes d'une librairie	Librairie Lapage	Commerce
-Etude sur l'eau potable	DWFA	ONG
-Etude de marché	La Poule qui Chante	Commerce
-Détection  de faux billets	ONCFM	Institutionnel
+
 <img width="916" height="235" alt="image" src="https://github.com/user-attachments/assets/8268a422-0bd7-48f8-86a3-e08b18d4c7f9" />
 
 

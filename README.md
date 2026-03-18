@@ -6,7 +6,9 @@ Je vous invite à découvrir mon parcours de **Consultant Data Analyst pour ESND
 
 ## 🎯 À propos de mon parcours avec ESNDATA
 
-Depuis que j'ai rejoint ce cabinet spécialisé dans le consulting aux entreprises concernant le domaine des données, j’ai pu mettre à profit l'ensemble des compétences acquises lors de mon cursus de formation en analyse de données.  
+Depuis que j'ai rejoint ce cabinet spécialisé dans le consulting aux entreprises concernant le domaine des données, j’ai pu mettre à profit l'ensemble des compétences acquises lors de mon cursus de formation en analyse de données.
+
+
 ESN Data m'a permis de réaliser une dizaine de missions différentes auprès d'entreprises sollicitant ses services en matière de données.
 
 ---

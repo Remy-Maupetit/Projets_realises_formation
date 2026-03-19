@@ -52,7 +52,7 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
 - 🛒 [Analyse des ventes e-commerce – *Le Grand Marché*](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)
   
-  * Tableau de suivi mensuel(Excel)
+  * Tableau de suivi mensuel (Excel)
   * Rapport d'analyse des ventes (PDF)
     
 - 🌍 [Etude de santé publique – *FAO*](./P04_Réaliser_une_étude_de_santé_publique_avec_python)
@@ -63,12 +63,12 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 - 🏢 [Base de données immobilière – *Laplace Immo*](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)
 
   * Dictionnaire des données (Excel)
-  * Support de présentation de création et d'utilisation d'une base de données avec SQL(PDF)
+  * Support de présentation de création et d'utilisation d'une base de données avec SQL (PDF)
   
 - 🧃 [Optimisation des données boutique – *BottleNeck*](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)
 
-  * Support de présentation d'optimisation des données et d'analyse commerciale(PDF)
-  * Notebook d'exploration et d'analyse des données(Python)
+  * Support de présentation d'optimisation des données et d'analyse commerciale (PDF)
+  * Notebook d'exploration et d'analyse des données (Python)
     
 - 📊 [Dashboard Power BI – *Sanitotal*](./P07_Créer_un_tableau_de_bord_dynamique_avec_power_bi)
   
@@ -78,15 +78,20 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
   * Support de présentation de l'Index d'égalité Femmes-Hommes (PDF)
   * Fichier données salariés anonymisées (CSV)
-  * Workflow Knime de traitements et d'analyse des données ( A télécharger)
+  * Workflow Knime de traitements et d'analyse des données (A télécharger)
 
 - 📚 [Analyse ventes librairie – *Librairie Lapage*](./P09_Analyser_les_ventes_d_une_librairie_avec_python)
 
-  * Support de présentation de l'analyse des ventes et des comportements clients(PDF)
-  * Notebook d'exploration et d'analyse des données de ventes(Python)
+  * Support de présentation de l'analyse des ventes et des comportements clients (PDF)
+  * Notebook d'exploration et d'analyse des données de ventes (Python)
   * Notebook d'analyse des comportements clients (Python)
 
-- 💧 [Étude eau potable – *DWFA*](./P10_Faire_une_etude_sur_eau_potable)  
+- 💧 [Étude eau potable – *DWFA*](./P10_Faire_une_etude_sur_eau_potable)
+
+  * Tableau de Bord de l'accès à l'eau des populations dans le monde [Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/63fbb445-4ce0-44ed-9928-8708434244fa/ede2c21bb80076bdfc3c?experience=power-bi)
+
+  *Support de présentation de l'étude sur l'accès à l'eau dans le monde (PDF) 
+
 - 🐔 [Étude de marché – *La Poule qui Chante*](./P11_Produire_une_étude_de_marché_avec_python)  
 - 💶 [Détection de faux billets – *ONCFM*](./P12_Détecter_des_faux_billets_avec_python)
 ---

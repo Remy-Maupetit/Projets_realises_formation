@@ -53,7 +53,7 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 - 🛒 [Analyse des ventes e-commerce – *Le Grand Marché*](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)
   
   * Tableau de suivi mensuel au format Excel
-  * Rapport d'analyse des ventes de l'entreprise **Le Grand Marché**
+  * Rapport d'analyse des ventes
     
 - 🌍 [Etude de santé publique – *FAO*](./P04_Réaliser_une_étude_de_santé_publique_avec_python)  
 - 🏢 [Base de données immobilière – *Laplace Immo*](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)  

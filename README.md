@@ -67,8 +67,8 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
   
 - 🧃 [Optimisation des données boutique – *BottleNeck*](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)  
 - 📊 [Dashboard Power BI – *Sanitotal*](./P07_Créer_un_tableau_de_bord_dynamique_avec_power_bi)
-
-* [Tableau de Bord de suivi de projet](https://app.powerbi.com/groups/me/reports/e6dac014-2b15-430d-a2fe-362fa5e7e9e4/9d5075050703e9965289?experience=power-bi) 
+  
+  [Lien vers Tableau de Bord de suivi de projet](https://app.powerbi.com/groups/me/reports/e6dac014-2b15-430d-a2fe-362fa5e7e9e4/9d5075050703e9965289?experience=power-bi) 
 - ⚖️ [Égalité Femmes-Hommes (RGPD) – *ESN*](./P08_Analyser_des_indicateurs_de_l_égalité_femmes_hommes_en_respect_du_rgpd)
 - 📚 [Analyse ventes librairie – *Librairie Lapage*](./P09_Analyser_les_ventes_d_une_librairie_avec_python)  
 - 💧 [Étude eau potable – *DWFA*](./P10_Faire_une_etude_sur_eau_potable)  

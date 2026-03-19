@@ -80,7 +80,12 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
   * Fichier données salariés anonymisées (CSV)
   * Workflow Knime de traitements et d'analyse des données ( A télécharger)
 
-- 📚 [Analyse ventes librairie – *Librairie Lapage*](./P09_Analyser_les_ventes_d_une_librairie_avec_python)  
+- 📚 [Analyse ventes librairie – *Librairie Lapage*](./P09_Analyser_les_ventes_d_une_librairie_avec_python)
+
+  * Support de présentation de l'analyse des ventes et des comportements clients(PDF)
+  * Notebook d'exploration et d'analyse des données de ventes(Python)
+  * Notebook d'analyse des comportements clients (Python)
+
 - 💧 [Étude eau potable – *DWFA*](./P10_Faire_une_etude_sur_eau_potable)  
 - 🐔 [Étude de marché – *La Poule qui Chante*](./P11_Produire_une_étude_de_marché_avec_python)  
 - 💶 [Détection de faux billets – *ONCFM*](./P12_Détecter_des_faux_billets_avec_python)

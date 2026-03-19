@@ -63,12 +63,17 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 - 🏢 [Base de données immobilière – *Laplace Immo*](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)
 
   * Dictionnaire des données (Excel)
-  * Support de présentation de création et d'utilisation d'une base de données avec SQL (PDF)
+  * Support de présentation de création et d'utilisation d'une base de données avec SQL(PDF)
   
-- 🧃 [Optimisation des données boutique – *BottleNeck*](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)  
+- 🧃 [Optimisation des données boutique – *BottleNeck*](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)
+
+  * Support de présentation d'optimisation des données et d'analyse commerciale(PDF)
+  * Notebook d'exploration et d'analyse des données(Python)
+     
 - 📊 [Dashboard Power BI – *Sanitotal*](./P07_Créer_un_tableau_de_bord_dynamique_avec_power_bi)
   
-  * Tableau de bord de suivi de projets[Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/e6dac014-2b15-430d-a2fe-362fa5e7e9e4/9d5075050703e9965289?experience=power-bi) 
+  * Tableau de bord de suivi de projets[Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/e6dac014-2b15-430d-a2fe-362fa5e7e9e4/9d5075050703e9965289?experience=power-bi)
+  
 - ⚖️ [Égalité Femmes-Hommes (RGPD) – *ESN*](./P08_Analyser_des_indicateurs_de_l_égalité_femmes_hommes_en_respect_du_rgpd)
 
   * Support de présentation de l'Index d'égalité Femmes-Hommes (PDF)

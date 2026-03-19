@@ -14,7 +14,7 @@ ESNDATA m’a permis de réaliser une dizaine de missions auprès d’entreprise
 
 ## 💡 Ce que vous trouverez ici
 
-### 📁 Projets réalisés
+### 📁 Missions réalisées
 Chaque répertoire contient les livrables produits pour répondre aux besoins des missions.
 
 ### 📈 Compétences développées
@@ -48,11 +48,11 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
 ## 📋 Les missions réalisées
 
-👉 Cliquez sur une mission pour accéder aux livrables réalisés :
+👉 Cliquez sur une mission pour consulter les livrables réalisés :
 
 - 🛒 [Analyse des ventes e-commerce – *Le Grand Marché*](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)
   
-  * Alimentation et amélioraton d'un tableau de suivi au format Excel
+  * Alimentation et amélioration d'un tableau de suivi au format Excel
   * Production d'un rapport d'analyse des ventes de l'entreprise **Le Grand Marché**
     
 - 🌍 [Etude de santé publique – *FAO*](./P04_Réaliser_une_étude_de_santé_publique_avec_python)  

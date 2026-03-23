@@ -1,6 +1,6 @@
 # 🚀 Mon parcours Data Analyst – ESN DATA
 
-Bienvenue dans mon espace dédié à mon parcours de **Consultant Data Analyst** chez **ESNDATA**.  
+Bienvenue dans l'espace dédié à mon parcours de **Consultant Data Analyst** chez **ESNDATA**.  
 Découvrez ici les missions que j’ai réalisées et les compétences que j’ai développées.
 
 ---

@@ -73,7 +73,7 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 - ⚖️ **[Égalité Femmes-Hommes (RGPD) – ESN](./P08_Analyser_des_indicateurs_de_l_égalité_femmes_hommes_en_respect_du_rgpd)**  
   * Support de présentation de l'Index d'égalité Femmes-Hommes (PDF)  
   * Fichier données salariés anonymisées (CSV)  
-  * Workflow **Knime** de traitements et d'analyse (à télécharger)
+  * Workflow de traitements et d'analyse (à télécharger)
 
 - 📚 **[Analyse ventes librairie – Librairie Lapage](./P09_Analyser_les_ventes_d_une_librairie_avec_python)**  
   * Notebook d'analyse des ventes et comportements clients (Python)  

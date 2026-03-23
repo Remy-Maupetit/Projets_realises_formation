@@ -90,7 +90,7 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
 - 💶 **[Détection de faux billets – ONCFM](./P12_Détecter_des_faux_billets_avec_python)**  
   * Notebook préparation des données et comparaison d'algorithmes (Python)  
-  * Notebook détection des faux billets (Python)  
+  * Script de détection des faux billets (Python)  
   * Support de présentation (PDF)
 
 ---

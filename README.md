@@ -1,33 +1,29 @@
 # 🚀 Mon parcours Data Analyst – ESN DATA
 
-Bienvenue dans l'espace dédié à mon parcours de **Consultant Data Analyst** chez **ESNDATA**.  
-Découvrez ici les missions que j’ai réalisées et les compétences que j’ai développées.
+Bienvenue dans mon espace dédié à mon parcours de **Consultant Data Analyst** chez **ESNDATA**.  
+Découvrez mes missions, les livrables produits, et les compétences développées.
 
 ---
 
 ## 🎯 À propos de mon parcours chez ESNDATA
 
-Depuis mon arrivée chez **ESNDATA**, j’ai pu mettre en pratique mes compétences en analyse de données et réaliser une dizaine de missions pour des entreprises ayant des problématiques variées.
-
-Chaque projet m’a permis de produire des livrables concrets et d’apporter des insights utiles pour la prise de décision.
+Depuis mon arrivée chez **ESNDATA**, j’ai réalisé une dizaine de missions variées, mettant en pratique mes compétences en **analyse de données, data visualisation et reporting**.  
+Chaque mission m’a permis de produire des livrables concrets et utiles à la prise de décision.
 
 ---
 
-## 💡 Ce que vous trouverez ici
-
-### 📁 Missions réalisées
-Chaque répertoire contient les livrables produits pour répondre aux besoins des missions.
+## 💡 Compétences et méthodologie
 
 ### 📈 Compétences développées
 - Analyse exploratoire de données  
-- Visualisation et reporting  
-- Création de tableaux de bord interactifs  
+- Visualisation et reporting interactif  
+- Création de tableaux de bord Power BI  
 - Nettoyage et manipulation de données  
 
 ### 🧠 Méthodologie
 - Approche rigoureuse et orientée métier  
-- Utilisation d’outils modernes  
 - Application des bonnes pratiques de data storytelling  
+- Utilisation d’outils modernes pour chaque mission  
 
 ---
 
@@ -41,57 +37,92 @@ Chaque répertoire contient les livrables produits pour répondre aux besoins de
 
 ---
 
-## 📊 Impact
+## 📋 Missions réalisées
 
-Chaque mission reflète ma capacité à analyser des problématiques concrètes et à produire des insights exploitables par les équipes métiers.
+<div style="display: flex; flex-direction: column; gap: 1rem;">
+
+### 🛒 Analyse des ventes e-commerce – *Le Grand Marché*
+**Livrables :**  
+- Tableau de suivi mensuel (Excel)  
+- Rapport d'analyse des ventes (PDF)  
+[Voir le dossier](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)
 
 ---
 
-## 📋 Les missions réalisées
+### 🌍 Étude de santé publique – *FAO*
+**Livrables :**  
+- Notebooks d'exploration (Python et PDF)  
+- Rapport d'étude sur l'alimentation dans le monde (PDF)  
+[Voir le dossier](./P04_Réaliser_une_étude_de_santé_publique_avec_python)
 
-👉 Cliquez sur une mission pour consulter les livrables réalisés :
+---
 
-- 🛒 **[Analyse des ventes e-commerce – Le Grand Marché](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)**  
-  * Tableau de suivi mensuel (Excel)  
-  * Rapport d'analyse des ventes (PDF)
+### 🏢 Base de données immobilière – *Laplace Immo*
+**Livrables :**  
+- Dictionnaire des données (Excel)  
+- Support de présentation création et utilisation d'une base SQL (PDF)  
+[Voir le dossier](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)
 
-- 🌍 **[Étude de santé publique – FAO](./P04_Réaliser_une_étude_de_santé_publique_avec_python)**  
-  * Notebooks d'exploration de données (Python et PDF)  
-  * Rapport d'étude sur l'alimentation dans le monde (PDF)
+---
 
-- 🏢 **[Base de données immobilière – Laplace Immo](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)**  
-  * Dictionnaire des données (Excel)  
-  * Support de présentation de la création et utilisation de la base SQL (PDF)
+### 🧃 Optimisation des données boutique – *BottleNeck*
+**Livrables :**  
+- Notebook d'exploration et d'analyse (Python)  
+- Support de présentation optimisation des données et analyse commerciale (PDF)  
+[Voir le dossier](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)
 
-- 🧃 **[Optimisation des données boutique – BottleNeck](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)**  
-  * Notebook d'exploration et d'analyse des données (Python)  
-  * Support de présentation d'optimisation et analyse commerciale (PDF)
+---
 
-- 📊 **[Dashboard Power BI – Sanitotal](./P07_Créer_un_tableau_de_bord_dynamique_avec_power_bi)**  
-  * Tableau de bord de suivi de projets [Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/e6dac014-2b15-430d-a2fe-362fa5e7e9e4/9d5075050703e9965289?experience=power-bi)
+### 📊 Dashboard Power BI – *Sanitotal*
+**Livrables :**  
+- Tableau de bord interactif Power BI  
+[Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/e6dac014-2b15-430d-a2fe-362fa5e7e9e4/9d5075050703e9965289?experience=power-bi)  
+[Voir le dossier](./P07_Créer_un_tableau_de_bord_dynamique_avec_power_bi)
 
-- ⚖️ **[Égalité Femmes-Hommes (RGPD) – ESN](./P08_Analyser_des_indicateurs_de_l_égalité_femmes_hommes_en_respect_du_rgpd)**  
-  * Support de présentation de l'Index d'égalité Femmes-Hommes (PDF)  
-  * Fichier données salariés anonymisées (CSV)  
-  * Workflow de traitements et d'analyse (à télécharger)
+---
 
-- 📚 **[Analyse ventes librairie – Librairie Lapage](./P09_Analyser_les_ventes_d_une_librairie_avec_python)**  
-  * Notebook d'analyse des ventes et comportements clients (Python)  
-  * Support de présentation (PDF)
+### ⚖️ Égalité Femmes-Hommes (RGPD) – *ESN*
+**Livrables :**  
+- Support de présentation Index Femmes-Hommes (PDF)  
+- Fichier données anonymisées (CSV)  
+- Workflow Knime pour traitement et analyse (Téléchargeable)  
+[Voir le dossier](./P08_Analyser_des_indicateurs_de_l_égalité_femmes_hommes_en_respect_du_rgpd)
 
-- 💧 **[Étude eau potable – DWFA](./P10_Faire_une_etude_sur_eau_potable)**  
-  * Tableau de bord de l'accès à l'eau [Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/63fbb445-4ce0-44ed-9928-8708434244fa/ede2c21bb80076bdfc3c?experience=power-bi)  
-  * Support de présentation de l'étude (PDF)
+---
 
-- 🐔 **[Étude de marché – La Poule qui Chante](./P11_Produire_une_étude_de_marché_avec_python)**  
-  * Notebook préparation et analyse exploratoire (Python)  
-  * Notebook clustering et visualisation (Python)  
-  * Support de présentation (PDF)
+### 📚 Analyse ventes librairie – *Librairie Lapage*
+**Livrables :**  
+- Notebook d'analyse ventes et comportements clients (Python)  
+- Support de présentation (PDF)  
+[Voir le dossier](./P09_Analyser_les_ventes_d_une_librairie_avec_python)
 
-- 💶 **[Détection de faux billets – ONCFM](./P12_Détecter_des_faux_billets_avec_python)**  
-  * Notebook préparation des données et comparaison d'algorithmes (Python)  
-  * Script de détection des faux billets (Python)  
-  * Support de présentation (PDF)
+---
+
+### 💧 Étude eau potable – *DWFA*
+**Livrables :**  
+- Tableau de bord Power BI [Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/63fbb445-4ce0-44ed-9928-8708434244fa/ede2c21bb80076bdfc3c?experience=power-bi)  
+- Support de présentation de l'étude (PDF)  
+[Voir le dossier](./P10_Faire_une_etude_sur_eau_potable)
+
+---
+
+### 🐔 Étude de marché – *La Poule qui Chante*
+**Livrables :**  
+- Notebook préparation et analyse exploratoire (Python)  
+- Notebook clustering et visualisation (Python)  
+- Support de présentation (PDF)  
+[Voir le dossier](./P11_Produire_une_étude_de_marché_avec_python)
+
+---
+
+### 💶 Détection de faux billets – *ONCFM*
+**Livrables :**  
+- Notebook préparation données et comparaison d’algorithmes (Python)  
+- Notebook détection de faux billets (Python)  
+- Support de présentation (PDF)  
+[Voir le dossier](./P12_Détecter_des_faux_billets_avec_python)
+
+</div>
 
 ---
 

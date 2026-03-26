@@ -42,7 +42,7 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 <div style="display: flex; flex-direction: column; gap: 1rem;">
 
 ### 🛒 Analyse des ventes e-commerce – *Le Grand Marché*
-**Livrables :**  
+**Documents :**  
 - Tableau de suivi mensuel (Excel)  
 - Rapport d'analyse des ventes (PDF)  
 [Voir le dossier](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)
@@ -50,7 +50,7 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 ---
 
 ### 🌍 Étude de santé publique – *FAO*
-**Livrables :**  
+**Documents :**  
 - Notebooks d'exploration (Python et PDF)  
 - Rapport d'étude sur l'alimentation dans le monde (PDF)  
 [Voir le dossier](./P04_Réaliser_une_étude_de_santé_publique_avec_python)
@@ -58,7 +58,7 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 ---
 
 ### 🏢 Base de données immobilière – *Laplace Immo*
-**Livrables :**  
+**Documents :**  
 - Dictionnaire des données (Excel)  
 - Support de présentation création et utilisation d'une base SQL (PDF)  
 [Voir le dossier](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)
@@ -66,7 +66,7 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 ---
 
 ### 🧃 Optimisation des données boutique – *BottleNeck*
-**Livrables :**  
+**Documents :**  
 - Notebook d'exploration et d'analyse (Python)  
 - Support de présentation optimisation des données et analyse commerciale (PDF)  
 [Voir le dossier](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)
@@ -74,7 +74,7 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 ---
 
 ### 📊 Dashboard Power BI – *Sanitotal*
-**Livrables :**  
+**Document :**  
 - Tableau de bord interactif Power BI  
 [Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/e6dac014-2b15-430d-a2fe-362fa5e7e9e4/9d5075050703e9965289?experience=power-bi)  
 [Voir le dossier](./P07_Créer_un_tableau_de_bord_dynamique_avec_power_bi)
@@ -82,7 +82,7 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 ---
 
 ### ⚖️ Égalité Femmes-Hommes (RGPD) – *ESN*
-**Livrables :**  
+**Documents :**  
 - Support de présentation Index Femmes-Hommes (PDF)  
 - Fichier données anonymisées (CSV)  
 - Workflow Knime pour traitement et analyse (Téléchargeable)  
@@ -91,7 +91,7 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 ---
 
 ### 📚 Analyse ventes librairie – *Librairie Lapage*
-**Livrables :**  
+**Documents :**  
 - Notebook d'analyse ventes et comportements clients (Python)  
 - Support de présentation (PDF)  
 [Voir le dossier](./P09_Analyser_les_ventes_d_une_librairie_avec_python)
@@ -99,7 +99,7 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 ---
 
 ### 💧 Étude eau potable – *DWFA*
-**Livrables :**  
+**Documents :**  
 - Tableau de bord Power BI [Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/63fbb445-4ce0-44ed-9928-8708434244fa/ede2c21bb80076bdfc3c?experience=power-bi)  
 - Support de présentation de l'étude (PDF)  
 [Voir le dossier](./P10_Faire_une_etude_sur_eau_potable)
@@ -107,7 +107,7 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 ---
 
 ### 🐔 Étude de marché – *La Poule qui Chante*
-**Livrables :**  
+**Documents :**  
 - Notebook préparation et analyse exploratoire (Python)  
 - Notebook clustering et visualisation (Python)  
 - Support de présentation (PDF)  
@@ -116,7 +116,7 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 ---
 
 ### 💶 Détection de faux billets – *ONCFM*
-**Livrables :**  
+**Documents :**  
 - Notebook préparation données et comparaison d’algorithmes (Python)  
 - Notebook détection de faux billets (Python)  
 - Support de présentation (PDF)  

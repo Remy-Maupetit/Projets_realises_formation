@@ -44,7 +44,7 @@ Determiner lequel algorythme préconnisé est le plus performant dans la détect
 - Comparaison et choix du modèle le plus performant
 - Réalisation d'un pipeline pour exporter le modèle
 
-  [Voir le document](./Maupetit_Rémy_1_notebook-012026)
+  [Voir le document](P12_Détecter_des_faux_billets_avec_python/Maupetit_Rémy_1_notebook-012026)
   
 ---
 

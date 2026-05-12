@@ -133,7 +133,6 @@ Chaque projet m’a permis de produire des livrables concrets et utiles à la pr
 - Rétroplanning du projet – Diagramme de Gantt Power BI
 - Mode opératoire Power BI création de graphiques (PDF)
 - Tutoriel vidéo de réalisation d'un tableau de bord avec Power BI
-
 [Voir le dossier](./P13_ Créer_votre_portfolio_professsionel_de_la_data)
   
 </div>

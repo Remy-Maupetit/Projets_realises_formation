@@ -122,16 +122,22 @@ Chaque projet m’a permis de produire des livrables concrets et utiles à la pr
 - Support de présentation (PDF)  
 [Voir le dossier](./P12_Détecter_des_faux_billets_avec_python)
 
-</div>
-
 ---
 
 ### 📚 Concevoir un portfolio de professionnel de la Data – *ESN DATA*
 **Documents :**
-
-
+- Profil candidat – Tableau de bord Power BI
+- Veille métier – Tableau de bord Power BI
+- Expression des besoins clients (PDF)
+- Cahier des charges du projet (PDF)
+- Rétroplanning du projet – Diagramme de Gantt Power BI
+- Mode opératoire Power BI création de graphiques (PDF)
+- Tutoriel vidéo sur la réalisation d'un tableau de bord avec Power BI
 [Voir le dossier](./P12_Détecter_des_faux_billets_avec_python)
 
+</div>
+
+---
 
 ## 🙏 Merci de votre visite !
 

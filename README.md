@@ -134,7 +134,7 @@ Chaque projet m’a permis de produire des livrables concrets et utiles à la pr
 - Mode opératoire Power BI création de graphiques (PDF)
 - Tutoriel vidéo sur la réalisation d'un tableau de bord avec Power BI
 
-[Voir le dossier](./P12_Détecter_des_faux_billets_avec_python)
+  [Voir le dossier](./P12_Détecter_des_faux_billets_avec_python)
 
 </div>
 

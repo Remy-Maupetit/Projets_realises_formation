@@ -44,7 +44,7 @@ Determiner lequel algorythme préconnisé est le plus performant dans la détect
 - Comparaison et choix du modèle le plus performant
 - Réalisation d'un pipeline pour exporter le modèle
 
-  [Voir le document](P12_Détecter_des_faux_billets_avec_python/Maupetit_Rémy_1_notebook-012026)
+  [Voir le document](P12_Détecter_des_faux_billets_avec_python/Maupetit_Rémy_1_notebook_012026)
   
 ---
 
@@ -52,7 +52,7 @@ Determiner lequel algorythme préconnisé est le plus performant dans la détect
  
 - Script fonctionnel permettant de détecter les faux billets contenant le Pipeline avec le modèle le plus performant 
 
-  [Voir le document](./Maupetit_Rémy_2_script-012026)
+  [Voir le document](./Maupetit_Rémy_2_script_012026)
 
 ---
 
@@ -60,7 +60,7 @@ Determiner lequel algorythme préconnisé est le plus performant dans la détect
 
 - Document expliquant la démarche et les résultats des différents travaux sur les modèles et le choix du modèle.
   
-  [Voir le document](./Maupetit_Rémy_3_Présentation-012026)
+  [Voir le document](./Maupetit_Rémy_3_Présentation_012026)
 
 ---
 

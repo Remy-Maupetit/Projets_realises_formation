@@ -134,7 +134,7 @@ Chaque projet m’a permis de produire des livrables concrets et utiles à la pr
 - Mode opératoire Power BI création de graphiques (PDF)
 - Tutoriel vidéo de réalisation d'un tableau de bord avec Power BI
 
-  [Voir le dossier](./P13_Créez_votre_portfolio_professsionel _de_la_data)
+  [Voir le dossier](./P13_Créer_votre_portfolio_professsionel _de_la_data)
 
 </div>
 
